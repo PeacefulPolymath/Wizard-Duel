@@ -65,19 +65,19 @@ Make sure Python 3 is installed.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/python-terminal-rpg.git
+git clone https://github.com/PeacefulPolymath/Wizard-Duel.git
 ```
 
 Go into the project folder:
 
 ```bash
-cd python-terminal-rpg
+cd Wizard-Duel
 ```
 
 Run the game:
 
 ```bash
-python game.py
+python file.py
 ```
 
 ---
